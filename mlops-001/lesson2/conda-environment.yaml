@@ -1,4 +1,4 @@
-name: course
+name: mlops-course
 channels:
   - pytorch
   - nvidia
@@ -244,4 +244,3 @@ dependencies:
     - webencodings==0.5.1
     - websocket-client==1.4.2
     - zipp==3.10.0
-prefix: /home/darek/mambaforge/envs/course
